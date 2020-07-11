@@ -23,3 +23,7 @@
 
 ### Class Diagram
 <img src="class diagram.JPG" alt="Class Diagram" style="width:400px;height:400px;">
+<br>
+<br>
+
+### Package ownership link : https://pypi.org/project/my-tic-tac-toe/

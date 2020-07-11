@@ -1,0 +1,7 @@
+setup.py
+my_tic_tac_toe/__init__.py
+my_tic_tac_toe.egg-info/PKG-INFO
+my_tic_tac_toe.egg-info/SOURCES.txt
+my_tic_tac_toe.egg-info/dependency_links.txt
+my_tic_tac_toe.egg-info/not-zip-safe
+my_tic_tac_toe.egg-info/top_level.txt

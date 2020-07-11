@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: my-tic-tac-toe
+Version: 1.0
+Summary: The Tic Tac Toe python game
+Home-page: UNKNOWN
+Author: Aniket Sharma
+Author-email: aniketsharma552@gmail.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: Tic-tac-toe, is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. This is a working Python Package and can be installed either locally or via pip from the pypi repository.
+Platform: UNKNOWN
+Requires-Python: >=3.5

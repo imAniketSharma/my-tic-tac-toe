@@ -10,15 +10,16 @@
 * And all the squares on the board are filled up,
 * * Then the game is drawn.
 * This is a working Python Package and can be installed either locally or via pip from the pypi repository.
-## Install this package using command : **pip install my-tic-tac-toe**
+## Install this package using command : pip install my-tic-tac-toe
+## And can be played in your Python Shell using command : import my_tic_tac_toe
 
 ### Use Case Diagram
-<img src="use-case diagram.jpg" alt="Use Case Diagram" style="width:400px;height:400px;">
+<img src="use-case diagram.JPG" alt="Use Case Diagram" style="width:400px;height:400px;">
 <br>
 
 ### Sequence Diagram
-<img src="sequence diagram.jpg" alt="Sequence Diagram" style="width:400px;height:400px;">
+<img src="sequence diagram.JPG" alt="Sequence Diagram" style="width:400px;height:400px;">
 <br>
 
 ### Class Diagram
-<img src="class diagram.jpg" alt="Class Diagram" style="width:400px;height:400px;">
+<img src="class diagram.JPG" alt="Class Diagram" style="width:400px;height:400px;">
